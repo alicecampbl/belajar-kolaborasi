@@ -1,0 +1,4 @@
+File ini cuma dicoba buat kolaborasi, khususnya fork dan pull request
+Konten yang ada di dalam file juga terkesan asal
+
+Edit konten di bawah menggunakan fork:
